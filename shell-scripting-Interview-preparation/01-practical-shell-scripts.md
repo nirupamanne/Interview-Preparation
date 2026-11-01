@@ -52,7 +52,7 @@ I configured two thresholds: 75% for warning and 90% for critical.
 
 If disk usage goes above 75%, the script displays a warning message. If it reaches 90% or more, it displays a critical message."
 
-**This helps the DevOps team identify disk space issues early and take action before applications are affected.**
+****This helps the DevOps team identify disk space issues early and take action before applications are affected.****
 ---
 
 ## 2. Check Whether a Service Is Running
