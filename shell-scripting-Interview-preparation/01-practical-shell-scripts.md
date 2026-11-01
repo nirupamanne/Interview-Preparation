@@ -42,6 +42,17 @@ chmod +x disk-check.sh
 
 **Use case:** Helps administrators identify disks running out of space before applications are affected.
 
+## How to Explain in an Interview
+
+"I have written a Bash script to monitor disk space usage on a Linux server.
+
+First, I use the `df` command to check disk usage. Then I use `awk` to extract the disk usage percentage and mount point.
+
+I configured two thresholds: 75% for warning and 90% for critical.
+
+If disk usage goes above 75%, the script displays a warning message. If it reaches 90% or more, it displays a critical message.
+
+This helps the DevOps team identify disk space issues early and take action before applications are affected."
 ---
 
 ## 2. Check Whether a Service Is Running
