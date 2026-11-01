@@ -8,7 +8,7 @@ The answers are written in simple, human-readable language so they are easy to u
 
 ### 1. What is Linux?
 
-Linux is an open-source operating system. It is widely used in servers, cloud environments, and DevOps because it is stable, secure, and reliable.
+Linux is an open-source operating system. It is used in servers, cloud environments, and DevOps because it is stable, secure, and reliable.
 
 **Interview answer:**
 
