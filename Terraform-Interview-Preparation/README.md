@@ -1,9 +1,5 @@
 # Terraform – Interview Questions and Answers
 
-**Purpose:** Simple, interview-friendly notes for Terraform revision.
-
-**How to use:** Understand the idea, practise the example, and explain it in your own words.
-
 ## Contents
 
 1. [Terraform Basics](#terraform-basics)
