@@ -17,7 +17,8 @@
 
 **Answer:**
 
-Terraform is an Infrastructure as Code (IaC) tool developed by HashiCorp. We use it to create and manage infrastructure through code instead of creating everything manually in a cloud console.
+Terraform is an Infrastructure as Code (IaC) tool developed by HashiCorp. It help us create, update, delete infrastuctre using configuration files.
+we can manage infrastuctre on AWS, Azure, GCP and other platforms.
 
 For example, we can use Terraform to create AWS EC2 instances, VPCs, Security Groups, Load Balancers, S3 buckets and RDS databases.
 
